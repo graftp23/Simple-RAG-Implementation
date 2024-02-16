@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Retrieval Augmented Generation</title>
-</head>
 <body>
     <h2>Retrieval Augmented Generation</h2>
     <p>Create AI chat bot with RAG using LllamaIndex</p>
