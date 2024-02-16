@@ -26,6 +26,10 @@
         <li>Dataset in the from of txt file</li>
     </ul>
 </div>
+<div>
+    <p>The example dataset are taken from the article below</p>
+    <a href="[https://web.telegram.org/#/im?p=@BdonorBot](https://paultan.org/2024/02/07/proton-s70-malaysian-first-impressions-review/)https://paultan.org/2024/02/07/proton-s70-malaysian-first-impressions-review/">Proton S70 Malaysian review</a>
+</div>
     
 </body>
 </html>
