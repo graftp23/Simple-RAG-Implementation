@@ -23,7 +23,7 @@
     <h3>Requirements</h3>
     <ul>
         <li>OpenAI key</li>
-        <li>Dataset in the from of txt file</li>
+        <li>Dataset in the form of txt file</li>
     </ul>
 </div>
 <div>
